@@ -1,5 +1,5 @@
 library ieee;
-use ieee.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_1164.ALL;
 
 entity sequence is
 port (
